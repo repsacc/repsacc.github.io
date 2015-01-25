@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://repsacc.github.io/" href="Casub.jnlp">
+     <information>
+          <title>Casub</title>
+          <vendor>Casper Renman</vendor>
+          <homepage href="http://repsacc.github.io/" />
+          <description>Download correct subtitles automatically by selecting a videofile</description>
+     </information>
+ 
+     <security>
+          <all-permissions/>
+     </security>
+ 
+     <resources>
+          <j2se version="1.6+" />
+          <jar href="Casub.jar" />
+     </resources>
+ 
+     <application-desc main-class="Casub" />
+</jnlp>
+
