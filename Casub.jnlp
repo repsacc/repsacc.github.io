@@ -6,16 +6,18 @@
           <homepage href="http://repsacc.github.io/" />
           <description>Download correct subtitles automatically by selecting a videofile</description>
      </information>
- 
      <security>
           <all-permissions/>
      </security>
- 
      <resources>
           <j2se version="1.6+" />
+          <jar href="commons-codec-1.10.jar"/>
+          <jar href="commons-io-2.4.jar"/>
+          <jar href="commons-logging-1.2.jar"/>
+          <jar href="org-apache-xmlrpc.jar"/>
+          <jar href="ws-commons-util-1.0.2.jar"/>
           <jar href="Casub.jar" />
      </resources>
- 
      <application-desc main-class="Casub" />
 </jnlp>
 
