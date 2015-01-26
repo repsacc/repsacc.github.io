@@ -2,15 +2,17 @@ body{
 	background:#333333 url(images/page-bg.jpg);
 	margin:0px;
 	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
-	color:#6a6969;
+	color:#cccccc;
 }
-h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
+h1{font: 400 72px/74px 'Bree Serif', Georgia, serif; color:#ffffff;}
+/* h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#cccccc;} */
+h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
+h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#cccccc;}
 ul{margin:0px; padding:0px;}
-a {text-decoration:none; color:#6a6969;}
+a {text-decoration:none; color:#cccccc;}
 a:hover {color:#979797;}
 a img{border:0px;}
+i {color: white}
 
 #container{
 	width:950px;
@@ -35,7 +37,8 @@ a img{border:0px;}
 	margin: 0 0 0 -475px;
 }
 #header #logo{
-	padding-top:0px;
+	/* padding-top:50px; */
+    margin-top: -15px;
 	float:left;
 }
 #header #main-menu{float:right; padding-top:45px;}
@@ -50,7 +53,8 @@ a img{border:0px;}
 /* ABOUT SECTION */
 /****************************************************/
 
-#about{margin:0px 43px; padding-top:115px;}
+/* #about{margin:0px 43px; padding-top:115px;} */
+#about{margin:0px 43px; padding-top:40px;}
 #about h1{float:left;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
@@ -85,7 +89,7 @@ a img{border:0px;}
 	text-indent:-9999px;
 	list-style:none;
 	float:left;
-	/* margin-right:0px; */
+	margin-top:10px;
 	margin-left:70px;
 }
 #about .content #service-icons li.services-design{background:url(images/icon-1.png) no-repeat;}
@@ -93,17 +97,22 @@ a img{border:0px;}
 #about .content #service-icons li.services-film{background:url(images/icon-3.png) no-repeat;}
 #about .content #service-icons li.services-photo{background:url(images/icon-4.png) no-repeat;}
 
+
 /****************************************************/
 /* EXPERIENCE SECTION */
 /****************************************************/
 
-#experience{margin:0px 43px; padding-top:115px;}
+/* #experience{margin:0px 43px; padding-top:115px;} */
+/* #experience .content .col li{list-style-type: circle;} */
+#experience{margin:0px 43px; padding-top:20px;}
 #experience .col{
-	width:235px;
+	width:600px;
 	float:left;
 }
 #experience .content{overflow:auto;}
+#experience .col-left{margin-right: 650px; width:250px; float:left;}
 #experience .col-mid{margin-right: 350px; width:250px; float:right;}
+
 
 /****************************************************/
 /* WORK SECTION */
@@ -122,7 +131,8 @@ a img{border:0px;}
 /****************************************************/
 /* CONNECT SECTION */
 /****************************************************/
-#connect{margin:0px 43px; padding-top:115px;}
+/* #connect{margin:0px 43px; padding-top:115px;} */
+#connect{margin:0px 43px; padding-top:20px;}
 #connect .content{overflow:auto;}
 #connect #form{
 	width:410px;
