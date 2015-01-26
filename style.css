@@ -1,6 +1,11 @@
 body {
-    background: black;
+    /* background: black; */
     color: white;
+    background-image: url("madmen.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 37% 90%;
 }
 
 img {
