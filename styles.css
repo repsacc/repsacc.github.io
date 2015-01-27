@@ -16,6 +16,7 @@ i {color: white}
 
 #fb-comments-container {
     height: 700px;
+    width: 500px;
     overflow: scroll;
 }
 
