@@ -14,11 +14,6 @@ a:hover {color:#979797;}
 a img{border:0px;}
 i {color: white}
 
-#fb-comments-container {
-    height: 800px;
-    overflow: scroll;
-}
-
 #container{
 	width:950px;
 	margin:0px auto 300px auto;
