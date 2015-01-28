@@ -14,6 +14,15 @@ a:hover {color:#979797;}
 a img{border:0px;}
 i {color: white}
 
+#header #slogan {
+    position: fixed;
+    width: 600px;
+    height: 50px;
+    padding-top: 80px;
+    padding-left: 10px;
+	font: 400 16px/18px 'Bree Serif', Georgia, serif;
+}
+
 #container{
 	width:950px;
 	margin:0px auto 300px auto;
@@ -38,15 +47,19 @@ i {color: white}
 }
 #header #logo{
 	/* padding-top:50px; */
-    margin-top: -15px;
+    font: 400 72px/74px 'Bree Serif', Georgia, serif;
+    margin-top: 0px;
 	float:left;
+    color: #2196f3;
+    /* color: #ffffff; */
 }
-#header #main-menu{float:right; padding-top:45px;}
+#header #main-menu{float:right; padding-top:10px;}
 #header #main-menu li{
 	float:left;
 	list-style:none;
 	margin-left:27px;
-	font: 400 16px/20px 'Bree Serif', Georgia, serif;
+	font: 400 14px/18px 'Bree Serif', Georgia, serif;
+    /* color: #999999; */
 }
 
 /****************************************************/
