@@ -14,12 +14,11 @@ a:hover {color:#979797;}
 a img{border:0px;}
 i {color: white}
 
-#header #slogan {
-    position: fixed;
+#slogan {
     width: 600px;
     height: 20px;
     padding-top: 80px;
-    padding-left: 10px;
+    padding-left: 5px;
 	font: 400 16px/18px 'Bree Serif', Georgia, serif;
 }
 
@@ -51,7 +50,11 @@ i {color: white}
 	float:left;
     color: #2196f3;
 }
-#header #main-menu{float:right; padding-top:10px;}
+#header #main-menu{
+    float:right; 
+    padding-top:10px;
+}
+
 #header #main-menu li{
 	float:left;
 	list-style:none;
