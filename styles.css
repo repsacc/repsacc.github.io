@@ -46,12 +46,10 @@ i {color: white}
 	margin: 0 0 0 -475px;
 }
 #header #logo{
-	/* padding-top:50px; */
     font: 400 72px/74px 'Bree Serif', Georgia, serif;
     margin-top: 0px;
 	float:left;
     color: #2196f3;
-    /* color: #ffffff; */
 }
 #header #main-menu{float:right; padding-top:10px;}
 #header #main-menu li{
