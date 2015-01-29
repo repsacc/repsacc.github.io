@@ -4,10 +4,13 @@ body{
 	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
 	color:#cccccc;
 }
+
+
 h1{font: 400 72px/74px 'Bree Serif', Georgia, serif; color:#ffffff;}
 /* h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#cccccc;} */
 h2{font: 400 30px/32px 'Bree Serif', Georgia, serif; color:#cccccc;}
 h3{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
+h4{font: 400 16px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
 p{font: 400 14px/18px 'Bree Serif', Georgia, serif;}
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#cccccc;}
@@ -15,9 +18,10 @@ a:hover {color:#979797;}
 a img{border:0px;}
 i {color: white}
 
-#casub {color: #2196f3;}
+/* #casub {color: #2196f3;} */
+#casub {color: #00ACDA;}
 #casub span{font: 400 14px/18px 'Bree Serif', Georgia, serif;}
-#casubbigger {color: #2196f3;}
+#casubbigger {color: #00ACDA;}
 #casubbigger span{font: 400 18px/22px 'Bree Serif', Georgia, serif;}
 
 #slogan {
@@ -54,7 +58,7 @@ i {color: white}
     font: 400 72px/74px 'Bree Serif', Georgia, serif;
     margin-top: 0px;
 	float:left;
-    color: #2196f3;
+    color: #00ACDA;
 }
 #header #main-menu{
     float:right; 
