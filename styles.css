@@ -59,6 +59,8 @@ i {color: white}
 #header #main-menu{
     float:right; 
     padding-top:10px;
+    border-bottom: 1px solid #999999;
+    /* border-left: 1px solid #999999; */
 }
 
 #header #main-menu li{
