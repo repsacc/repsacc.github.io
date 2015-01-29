@@ -24,6 +24,18 @@ i {color: white}
 #casubbigger {color: #00ACDA;}
 #casubbigger span{font: 400 18px/22px 'Bree Serif', Georgia, serif;}
 
+#ulcircles {
+    margin-left: 30%;
+}
+#ulcircles li {
+    display: inline;
+}
+#ulcircles li + li {
+    border-left: 2px solid;
+    margin-left:.8em;
+    padding-left:.8em;
+}
+
 #slogan {
     width: 650px;
     height: 20px;
