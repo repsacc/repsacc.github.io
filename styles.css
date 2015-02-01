@@ -18,6 +18,13 @@ a:hover {color:#ffffff;}
 a img{border:0px;}
 i {color: white}
 
+#update {
+    margin-top: 50px;
+    margin-left: 30%;
+    margin-bottom: -20px;
+    width: 400px;
+}
+
 /* #casub {color: #2196f3;} */
 #casub {color: #00ACDA;}
 #casub span{font: 400 14px/18px 'Bree Serif', Georgia, serif;}
