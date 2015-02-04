@@ -34,6 +34,14 @@ i {color: white}
 #casubbiggest span{font: 400 144px/20px 'Bree Serif', Georgia, serif;}
 #casubbiggest {color: #00ACDA;}
 
+#slogan1 {
+    width: 650px;
+    height: 20px;
+    margin-left: 410px; 
+    margin-top: -180px; 
+	font: 400 25px/18px 'Bree Serif', Georgia, serif;
+}
+
 #ulcircles {
     margin-left: 30%;
 }
