@@ -19,10 +19,16 @@ a:hover {color:#ffffff;}
 a img{border:0px;}
 i {color: white}
 
-#update {
-    margin-top: 50px;
+#updatecontainer {
+    width: 500px;
+    height: 200px;
     margin-left: 30%;
-    margin-bottom: -20px;
+    margin-top: 2%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#update {
     width: 400px;
 }
 
