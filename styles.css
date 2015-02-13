@@ -11,7 +11,7 @@ h5{font: 400 144px/20px 'Bree Serif', Georgia, serif; color:#ffffff; margin-left
 /* h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#cccccc;} */
 h2{font: 400 30px/32px 'Bree Serif', Georgia, serif; color:#cccccc;}
 h3{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
-h4{font: 400 16px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
+h4{font: 400 14px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
 p{font: 400 14px/18px 'Bree Serif', Georgia, serif;}
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#cccccc;}
@@ -20,16 +20,22 @@ a img{border:0px;}
 i {color: white}
 
 #updatecontainer {
-    width: 500px;
-    height: 200px;
-    margin-left: 30%;
-    margin-top: 2%;
-    overflow-y: scroll;
-    overflow-x: hidden;
+    width: 400px;
+    height: 100px;
+    margin-top: -10px;
+    margin-left: 70%;
 }
+/* #updatecontainer { */
+/*     width: 500px; */
+/*     height: 200px; */
+/*     margin-left: 30%; */
+/*     margin-top: 2%; */
+/*     overflow-y: scroll; */
+/*     overflow-x: hidden; */
+/* } */
 
 #update {
-    width: 400px;
+    width: 300px;
 }
 
 /* #casub {color: #2196f3;} */
@@ -63,8 +69,9 @@ i {color: white}
 #slogan {
     width: 650px;
     height: 20px;
-    padding-top: 80px;
+    padding-top: 0px;
     padding-left: 5px;
+    margin-top: -30px;
 	font: 400 16px/18px 'Bree Serif', Georgia, serif;
 }
 
