@@ -20,10 +20,11 @@ a img{border:0px;}
 i {color: white}
 
 #updatecontainer {
-    width: 400px;
+    width: 350px;
     height: 100px;
-    margin-top: -10px;
-    margin-left: 70%;
+    float: right;
+    margin-top: -13%;
+    margin-left: 50%;
 }
 /* #updatecontainer { */
 /*     width: 500px; */
@@ -35,7 +36,7 @@ i {color: white}
 /* } */
 
 #update {
-    width: 300px;
+    width: 350px;
 }
 
 /* #casub {color: #2196f3;} */
@@ -69,9 +70,7 @@ i {color: white}
 #slogan {
     width: 650px;
     height: 20px;
-    padding-top: 0px;
-    padding-left: 5px;
-    margin-top: -30px;
+    margin-top: 9%;
 	font: 400 16px/18px 'Bree Serif', Georgia, serif;
 }
 
@@ -100,7 +99,7 @@ i {color: white}
 #header #logo{
     font: 400 72px/74px 'Bree Serif', Georgia, serif;
     margin-top: 0px;
-	float:left;
+	float: left;
     color: #00ACDA;
 }
 #header #main-menu{
