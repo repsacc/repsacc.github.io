@@ -113,6 +113,23 @@ i {color: white}
   margin-left:.8em;
   padding-left:.8em;
 }
+
+#main-menu {
+    margin-top: 80px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+
+}
+
+#main-menu li { 
+    display: inline;
+	font: 400 28px/28px 'Bree Serif', Georgia, serif;
+}
+#main-menu li + li {
+  border-left: 2px solid;
+  margin-left:.8em;
+  padding-left:.8em;
+}
 /* #header #main-menu li:last-child { content: " ";} */
 
 /****************************************************/
