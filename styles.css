@@ -94,7 +94,7 @@ i {color: white}
 	left:50%;
 	margin: 0 0 0 -475px;
 }
-#header #logo{
+#header #logo a{
     font: 400 72px/74px 'Bree Serif', Georgia, serif;
     margin-top: 0px;
 	float: left;
