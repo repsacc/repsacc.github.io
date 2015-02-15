@@ -8,7 +8,6 @@ body{
 
 h1{font: 400 72px/74px 'Bree Serif', Georgia, serif; color:#ffffff;}
 h5{font: 400 144px/20px 'Bree Serif', Georgia, serif; color:#ffffff; margin-left:400px;}
-/* h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#cccccc;} */
 h2{font: 400 30px/32px 'Bree Serif', Georgia, serif; color:#cccccc;}
 h3{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
 h4{font: 400 14px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
@@ -44,26 +43,6 @@ i {color: white}
 #casubbigger span{font: 400 18px/22px 'Bree Serif', Georgia, serif;}
 #casubbiggest span{font: 400 144px/20px 'Bree Serif', Georgia, serif;}
 #casubbiggest {color: #00ACDA;}
-
-#slogan1 {
-    width: 650px;
-    height: 20px;
-    margin-left: 410px; 
-    margin-top: -180px; 
-	font: 400 25px/18px 'Bree Serif', Georgia, serif;
-}
-
-#ulcircles {
-    margin-left: 30%;
-}
-#ulcircles li {
-    display: inline;
-}
-#ulcircles li + li {
-    border-left: 2px solid;
-    margin-left:.8em;
-    padding-left:.8em;
-}
 
 #slogan {
     width: 650px;
@@ -103,26 +82,16 @@ i {color: white}
 #header #main-menu{
     float:right; 
     padding-top:10px;
-    /* border-bottom: 1px solid #999999; */
-    /* background-color: #555555; */
-    /* border-left: 1px solid #999999; */
 }
 
-#header #main-menu li { 
-    display: inline;
-	font: 400 18px/28px 'Bree Serif', Georgia, serif;
-}
-#header #main-menu li + li {
-  border-left: 2px solid;
-  margin-left:.8em;
-  padding-left:.8em;
-}
 
 #main-menu {
-    margin-top: 80px;
+    margin-top: 8%;
     margin-left: 30%;
-    margin-bottom: 30px;
+    margin-bottom: 3%;
 }
+
+/* #main-menu a:hover {color:#ffffff;} */
 
 #main-menu li { 
     display: inline;
@@ -133,13 +102,11 @@ i {color: white}
   margin-left:.8em;
   padding-left:.8em;
 }
-/* #header #main-menu li:last-child { content: " ";} */
 
 /****************************************************/
 /* ABOUT SECTION */
 /****************************************************/
 
-/* #about{margin:0px 43px; padding-top:115px;} */
 #about{margin:0px 43px; padding-top:40px;}
 #about h1{float:left;}
 #about #top-social{float:right; padding-top:62px;}
@@ -204,15 +171,15 @@ i {color: white}
 /* WORK SECTION */
 /****************************************************/
 
-#work{margin:0px 43px; padding-top:115px;}
-#work .content{overflow:auto;}
-#work #work-thumbs li{
-	list-style:none;
-	float:left;
-	margin:0px 20px 15px 0px;
-	padding:0px;
-}
-#work #work-thumbs li.last{margin:0px;}
+/* #work{margin:0px 43px; padding-top:115px;} */
+/* #work .content{overflow:auto;} */
+/* #work #work-thumbs li{ */
+/* 	list-style:none; */
+/* 	float:left; */
+/* 	margin:0px 20px 15px 0px; */
+/* 	padding:0px; */
+/* } */
+/* #work #work-thumbs li.last{margin:0px;} */
 
 /****************************************************/
 /* CONNECT SECTION */
