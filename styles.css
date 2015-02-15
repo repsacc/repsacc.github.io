@@ -7,7 +7,7 @@ body{
 }
 
 
-h1{font: 400 72px/74px 'Bree Serif', Georgia, serif; color:#ffffff;}
+/* h1{font: 400 72px/74px 'Bree Serif', Georgia, serif; color:#ffffff;} */
 h5{font: 400 144px/20px 'Bree Serif', Georgia, serif; color:#ffffff; margin-left:400px;}
 h2{font: 400 30px/32px 'Bree Serif', Georgia, serif; color:#cccccc;}
 h3{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#cccccc;}
@@ -88,7 +88,7 @@ i {color: white}
 
 #main-menu {
     margin-top: 8%;
-    margin-left: 30%;
+    margin-left: 28%;
     margin-bottom: 3%;
 }
 
@@ -235,7 +235,10 @@ i {color: white}
 #connect #social-footer{
 	width:300px;
 	float:left;
-	margin-left:75px;
+    /* position: center; */
+    margin-left:40%;
+    margin-right:auto;
+	/* margin-left:75px; */
 }
 #connect #social-footer #sm-links{margin-top:25px;}
 #connect #social-footer #sm-links li{
