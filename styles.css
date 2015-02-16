@@ -89,10 +89,15 @@ i {color: white}
     padding-top:10px;
 }
 
-
 #main-menu {
     margin-top: 8%;
     margin-left: 28%;
+    margin-bottom: 3%;
+}
+
+#experience #main-menu {
+    margin-top: 8%;
+    margin-left: 26%;
     margin-bottom: 3%;
 }
 
@@ -165,9 +170,9 @@ i {color: white}
 #experience{margin:0px 43px; padding-top:20px;}
 #experience .col{
 	width:600px;
-	float:left;
+	/* float:left; */
 }
-#experience .content{overflow:auto;}
+/* #experience .content{overflow:auto;} */
 #experience .col-left{margin-right: 650px; width:250px; float:left;}
 #experience .col-mid{margin-right: 350px; width:250px; float:right;}
 
