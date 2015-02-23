@@ -19,6 +19,7 @@ a:hover {color:#ffffff;}
 a img{border:0px;}
 i {color: white}
 
+
 #updatecontainer {
     margin-top: -10%;
     float: right;
@@ -159,7 +160,10 @@ i {color: white}
 #about .content #service-icons li.services-mobile{background:url(images/icon-2.png) no-repeat;}
 #about .content #service-icons li.services-film{background:url(images/icon-3.png) no-repeat;}
 #about .content #service-icons li.services-photo{background:url(images/icon-4.png) no-repeat;}
-
+#about .content #right {
+    margin-left: 550px;
+    width: 300px;
+} 
 
 /****************************************************/
 /* EXPERIENCE SECTION */
